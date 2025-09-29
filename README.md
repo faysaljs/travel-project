@@ -30,7 +30,8 @@ It also includes a **login & registration system** for personalized access.
 - **Server:** Apache (XAMPP or WAMP recommended)
 
 ---
-
+## 📸 Screenshots
+![Homepage Screenshot](images/travel.png)
 ## 📂 Project Structure
 
 project/
